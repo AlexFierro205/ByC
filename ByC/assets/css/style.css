@@ -57,10 +57,12 @@
 :root {
 	--text-color: #808285;
 	--heading: #191919;
-    --blue-dark: #5956e9;
+    --blue-dark: #184c84;
 	--light-gray: #fafafb;
 	--dmsans: 'DM Sans', sans-serif;
 }
+
+
 *{
     margin: 0;
     padding: 0;
