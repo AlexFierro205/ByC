@@ -1449,7 +1449,7 @@ button {
     left: 0;
 }
 .hero-banner-v2 .hero-content span.sub-title{
-    font-size: 20px;
+    font-size: 35px;
     font-weight: 700;
     color: var(--blue-dark);
     margin-bottom: 15px;
@@ -1829,7 +1829,7 @@ button {
 }
 .service-item .text h3.title{
     margin-bottom: 15px;
-    font-size: 24px;
+    font-size: 30px;
     line-height: 35px;
 }
 .service-item .text p{
